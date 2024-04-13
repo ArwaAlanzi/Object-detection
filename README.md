@@ -5,3 +5,5 @@ an easy-to-implement framework
 
 YOLOv8 is widely used in self-driving cars for real-time object detection. It helps in identifying and tracking various objects on the road, such as pedestrians, vehicles, traffic signs, and traffic lights, enabling the car to make
 informed decisions and navigate safely
+
+The code used the YOLOv8 model for detecting and identifying various objects on the road, such as pedestrians, vehicles, traffic signs, and traffic lights as used in self-driving car
